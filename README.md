@@ -1,2 +1,9 @@
-# FreshFlowChallenge
-Freshflow Time Series Data Scientist take-home challenge Train one or more time-series forecasting models and report on their quality
+## Requirements
+
+Create the environment with all dependencies:
+
+`conda create --name <env> --file requirements.txt`
+
+Install the utilities module
+
+`pip install -e FFlowUtils `
